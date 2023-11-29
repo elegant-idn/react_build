@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bdbf4488.css",
-    "main.js": "/static/js/main.ee34cc66.js",
+    "main.js": "/static/js/main.ba110697.js",
     "js/lazy/application.js": "/static/js/js/lazy/application.18706517.chunk.js",
     "js/lazy/verkaufenBeta.css": "/static/css/js/lazy/verkaufenBeta.b787abc3.chunk.css",
     "js/lazy/verkaufenBeta.js": "/static/js/js/lazy/verkaufenBeta.09f35368.chunk.js",
@@ -247,6 +247,6 @@
   },
   "entrypoints": [
     "static/css/main.bdbf4488.css",
-    "static/js/main.ee34cc66.js"
+    "static/js/main.ba110697.js"
   ]
 }
