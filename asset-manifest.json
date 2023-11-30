@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bdbf4488.css",
-    "main.js": "/static/js/main.54aa7604.js",
+    "main.js": "/static/js/main.a4dcffb7.js",
     "js/lazy/application.js": "/static/js/js/lazy/application.5877a376.chunk.js",
     "js/lazy/verkaufenBeta.css": "/static/css/js/lazy/verkaufenBeta.b787abc3.chunk.css",
     "js/lazy/verkaufenBeta.js": "/static/js/js/lazy/verkaufenBeta.09f35368.chunk.js",
@@ -120,7 +120,7 @@
     "static/js/7439.8d4d8f9f.chunk.js": "/static/js/7439.8d4d8f9f.chunk.js",
     "static/js/5675.efd48a40.chunk.js": "/static/js/5675.efd48a40.chunk.js",
     "static/js/1592.41ca0882.chunk.js": "/static/js/1592.41ca0882.chunk.js",
-    "static/js/5835.17761640.chunk.js": "/static/js/5835.17761640.chunk.js",
+    "static/js/5835.a01098c2.chunk.js": "/static/js/5835.a01098c2.chunk.js",
     "static/js/5343.6e4f918f.chunk.js": "/static/js/5343.6e4f918f.chunk.js",
     "static/js/9019.d3d7f364.chunk.js": "/static/js/9019.d3d7f364.chunk.js",
     "static/js/7000.3055eb79.chunk.js": "/static/js/7000.3055eb79.chunk.js",
@@ -131,7 +131,7 @@
     "static/js/8967.f3e58a1a.chunk.js": "/static/js/8967.f3e58a1a.chunk.js",
     "static/js/6113.b261dbe6.chunk.js": "/static/js/6113.b261dbe6.chunk.js",
     "static/js/5659.ae45bfd9.chunk.js": "/static/js/5659.ae45bfd9.chunk.js",
-    "static/js/5411.0cd4f492.chunk.js": "/static/js/5411.0cd4f492.chunk.js",
+    "static/js/5411.dd472b37.chunk.js": "/static/js/5411.dd472b37.chunk.js",
     "static/js/5030.0a776ee4.chunk.js": "/static/js/5030.0a776ee4.chunk.js",
     "static/js/5026.d7db7d8d.chunk.js": "/static/js/5026.d7db7d8d.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
@@ -213,9 +213,9 @@
     "static/media/menu-group-hover.svg": "/static/media/menu-group-hover.939e061a1cd3b0c8e011.svg",
     "static/media/location-top.svg": "/static/media/location-top.4de77925ddd21d1004df.svg",
     "static/media/icon_cart_1.svg": "/static/media/icon_cart_1.7c4586c811cf283854b7.svg",
+    "index.html": "/index.html",
     "static/media/bag-20.svg": "/static/media/bag-20.d2e7d1e87ed61dc91421.svg",
     "static/media/reset-password.svg": "/static/media/reset-password.fa8df4c50b430c754088.svg",
-    "index.html": "/index.html",
     "static/media/check.svg": "/static/media/check.96221211cf498eeb4906.svg",
     "static/media/icon_cart.svg": "/static/media/icon_cart.73afc69df9094790a019.svg",
     "static/media/topLineCompanyForm.svg": "/static/media/topLineCompanyForm.339662b04e7b03d61e9d.svg",
@@ -247,6 +247,6 @@
   },
   "entrypoints": [
     "static/css/main.bdbf4488.css",
-    "static/js/main.54aa7604.js"
+    "static/js/main.a4dcffb7.js"
   ]
 }
