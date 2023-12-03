@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8d3ebe2f.css",
-    "main.js": "/static/js/main.416f26be.js",
+    "main.js": "/static/js/main.19ea733f.js",
     "js/lazy/application.js": "/static/js/js/lazy/application.ca71df3c.chunk.js",
     "js/lazy/verkaufenBeta.css": "/static/css/js/lazy/verkaufenBeta.b787abc3.chunk.css",
     "js/lazy/verkaufenBeta.js": "/static/js/js/lazy/verkaufenBeta.fbf53d4f.chunk.js",
@@ -31,7 +31,7 @@
     "js/lazy/contactForm.js": "/static/js/js/lazy/contactForm.1698de15.chunk.js",
     "js/lazy/agb.js": "/static/js/js/lazy/agb.a6928e8d.chunk.js",
     "js/lazy/widerrufsbelehrung.js": "/static/js/js/lazy/widerrufsbelehrung.81876e44.chunk.js",
-    "js/lazy/faqPage.js": "/static/js/js/lazy/faqPage.ef53cff7.chunk.js",
+    "js/lazy/faqPage.js": "/static/js/js/lazy/faqPage.0448d277.chunk.js",
     "js/lazy/faqPageComponent.js": "/static/js/js/lazy/faqPageComponent.b4d52804.chunk.js",
     "js/lazy/impressum.js": "/static/js/js/lazy/impressum.11aed8cf.chunk.js",
     "js/lazy/datenschutzerklaerung.js": "/static/js/js/lazy/datenschutzerklaerung.172e9ed4.chunk.js",
@@ -120,18 +120,18 @@
     "static/js/7439.8d4d8f9f.chunk.js": "/static/js/7439.8d4d8f9f.chunk.js",
     "static/js/5675.efd48a40.chunk.js": "/static/js/5675.efd48a40.chunk.js",
     "static/js/1592.41ca0882.chunk.js": "/static/js/1592.41ca0882.chunk.js",
-    "static/js/5835.4c634d94.chunk.js": "/static/js/5835.4c634d94.chunk.js",
+    "static/js/5835.60806774.chunk.js": "/static/js/5835.60806774.chunk.js",
     "static/js/5343.6e4f918f.chunk.js": "/static/js/5343.6e4f918f.chunk.js",
     "static/js/9019.d3d7f364.chunk.js": "/static/js/9019.d3d7f364.chunk.js",
     "static/js/7000.3055eb79.chunk.js": "/static/js/7000.3055eb79.chunk.js",
     "static/js/4083.37974acd.chunk.js": "/static/js/4083.37974acd.chunk.js",
     "static/js/9.6b240cde.chunk.js": "/static/js/9.6b240cde.chunk.js",
-    "static/js/9385.95df9223.chunk.js": "/static/js/9385.95df9223.chunk.js",
+    "static/js/9385.0f02843d.chunk.js": "/static/js/9385.0f02843d.chunk.js",
     "static/js/1923.30b55aed.chunk.js": "/static/js/1923.30b55aed.chunk.js",
     "static/js/8967.1e25c769.chunk.js": "/static/js/8967.1e25c769.chunk.js",
     "static/js/6113.b261dbe6.chunk.js": "/static/js/6113.b261dbe6.chunk.js",
-    "static/js/5659.64088664.chunk.js": "/static/js/5659.64088664.chunk.js",
-    "static/js/5411.7ab2f1ba.chunk.js": "/static/js/5411.7ab2f1ba.chunk.js",
+    "static/js/5659.ffa7112e.chunk.js": "/static/js/5659.ffa7112e.chunk.js",
+    "static/js/5411.bb75da08.chunk.js": "/static/js/5411.bb75da08.chunk.js",
     "static/js/5030.0a776ee4.chunk.js": "/static/js/5030.0a776ee4.chunk.js",
     "static/js/5026.d7db7d8d.chunk.js": "/static/js/5026.d7db7d8d.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
@@ -247,6 +247,6 @@
   },
   "entrypoints": [
     "static/css/main.8d3ebe2f.css",
-    "static/js/main.416f26be.js"
+    "static/js/main.19ea733f.js"
   ]
 }
