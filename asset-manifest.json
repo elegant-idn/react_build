@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bdbf4488.css",
-    "main.js": "/static/js/main.a4dcffb7.js",
+    "main.js": "/static/js/main.c1e5849a.js",
     "js/lazy/application.js": "/static/js/js/lazy/application.5877a376.chunk.js",
     "js/lazy/verkaufenBeta.css": "/static/css/js/lazy/verkaufenBeta.b787abc3.chunk.css",
     "js/lazy/verkaufenBeta.js": "/static/js/js/lazy/verkaufenBeta.09f35368.chunk.js",
@@ -175,6 +175,7 @@
     "static/media/computergreen.svg": "/static/media/computergreen.ee2eee48d9e116eea71f.svg",
     "static/media/whitecomputer.svg": "/static/media/whitecomputer.947962a0a5b927f62f1d.svg",
     "static/media/sell-grey-icon.svg": "/static/media/sell-grey-icon.82d9cbaffea3fba02d05.svg",
+    "index.html": "/index.html",
     "static/media/doublequotes.svg": "/static/media/doublequotes.22e3906c9a6a2954d57e.svg",
     "static/media/sell-icon.svg": "/static/media/sell-icon.837ec82d6b02302dd27b.svg",
     "static/media/dots.svg": "/static/media/dots.aa101ebd23ec8a9a2726.svg",
@@ -213,7 +214,6 @@
     "static/media/menu-group-hover.svg": "/static/media/menu-group-hover.939e061a1cd3b0c8e011.svg",
     "static/media/location-top.svg": "/static/media/location-top.4de77925ddd21d1004df.svg",
     "static/media/icon_cart_1.svg": "/static/media/icon_cart_1.7c4586c811cf283854b7.svg",
-    "index.html": "/index.html",
     "static/media/bag-20.svg": "/static/media/bag-20.d2e7d1e87ed61dc91421.svg",
     "static/media/reset-password.svg": "/static/media/reset-password.fa8df4c50b430c754088.svg",
     "static/media/check.svg": "/static/media/check.96221211cf498eeb4906.svg",
@@ -247,6 +247,6 @@
   },
   "entrypoints": [
     "static/css/main.bdbf4488.css",
-    "static/js/main.a4dcffb7.js"
+    "static/js/main.c1e5849a.js"
   ]
 }
