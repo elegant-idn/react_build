@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dd737978.css",
-    "main.js": "/static/js/main.4c3e7909.js",
+    "main.js": "/static/js/main.48bd978b.js",
     "js/lazy/application.js": "/static/js/js/lazy/application.2a6116d0.chunk.js",
     "js/lazy/verkaufenBeta.css": "/static/css/js/lazy/verkaufenBeta.b787abc3.chunk.css",
     "js/lazy/verkaufenBeta.js": "/static/js/js/lazy/verkaufenBeta.fbf53d4f.chunk.js",
@@ -130,7 +130,7 @@
     "static/js/8967.e3ff7646.chunk.js": "/static/js/8967.e3ff7646.chunk.js",
     "static/js/6113.b261dbe6.chunk.js": "/static/js/6113.b261dbe6.chunk.js",
     "static/js/5659.22d8b63c.chunk.js": "/static/js/5659.22d8b63c.chunk.js",
-    "static/js/5411.bb75da08.chunk.js": "/static/js/5411.bb75da08.chunk.js",
+    "static/js/5411.38383af4.chunk.js": "/static/js/5411.38383af4.chunk.js",
     "static/js/5030.0a776ee4.chunk.js": "/static/js/5030.0a776ee4.chunk.js",
     "static/js/5026.d7db7d8d.chunk.js": "/static/js/5026.d7db7d8d.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
@@ -246,6 +246,6 @@
   },
   "entrypoints": [
     "static/css/main.dd737978.css",
-    "static/js/main.4c3e7909.js"
+    "static/js/main.48bd978b.js"
   ]
 }
