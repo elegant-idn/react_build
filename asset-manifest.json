@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d59ba1a.css",
-    "main.js": "/static/js/main.5c546636.js",
+    "main.css": "/static/css/main.3443dcd4.css",
+    "main.js": "/static/js/main.9da31917.js",
     "js/lazy/application.js": "/static/js/js/lazy/application.379e3f21.chunk.js",
     "js/lazy/verkaufenBeta.css": "/static/css/js/lazy/verkaufenBeta.b787abc3.chunk.css",
     "js/lazy/verkaufenBeta.js": "/static/js/js/lazy/verkaufenBeta.fbf53d4f.chunk.js",
@@ -125,7 +125,7 @@
     "static/js/7000.3055eb79.chunk.js": "/static/js/7000.3055eb79.chunk.js",
     "static/js/4083.37974acd.chunk.js": "/static/js/4083.37974acd.chunk.js",
     "static/js/9.6b240cde.chunk.js": "/static/js/9.6b240cde.chunk.js",
-    "static/js/9385.37878161.chunk.js": "/static/js/9385.37878161.chunk.js",
+    "static/js/9385.0f02843d.chunk.js": "/static/js/9385.0f02843d.chunk.js",
     "static/js/1923.30b55aed.chunk.js": "/static/js/1923.30b55aed.chunk.js",
     "static/js/8967.e3ff7646.chunk.js": "/static/js/8967.e3ff7646.chunk.js",
     "static/js/6113.b261dbe6.chunk.js": "/static/js/6113.b261dbe6.chunk.js",
@@ -245,7 +245,7 @@
     "static/media/straightline.svg": "/static/media/straightline.ebc0517212d8516e6bf1.svg"
   },
   "entrypoints": [
-    "static/css/main.6d59ba1a.css",
-    "static/js/main.5c546636.js"
+    "static/css/main.3443dcd4.css",
+    "static/js/main.9da31917.js"
   ]
 }
