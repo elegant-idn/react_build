@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dd737978.css",
-    "main.js": "/static/js/main.9da31917.js",
+    "main.js": "/static/js/main.321eaa53.js",
     "js/lazy/application.js": "/static/js/js/lazy/application.379e3f21.chunk.js",
     "js/lazy/verkaufenBeta.css": "/static/css/js/lazy/verkaufenBeta.b787abc3.chunk.css",
     "js/lazy/verkaufenBeta.js": "/static/js/js/lazy/verkaufenBeta.fbf53d4f.chunk.js",
@@ -129,7 +129,7 @@
     "static/js/1923.30b55aed.chunk.js": "/static/js/1923.30b55aed.chunk.js",
     "static/js/8967.e3ff7646.chunk.js": "/static/js/8967.e3ff7646.chunk.js",
     "static/js/6113.b261dbe6.chunk.js": "/static/js/6113.b261dbe6.chunk.js",
-    "static/js/5659.ffa7112e.chunk.js": "/static/js/5659.ffa7112e.chunk.js",
+    "static/js/5659.22d8b63c.chunk.js": "/static/js/5659.22d8b63c.chunk.js",
     "static/js/5411.bb75da08.chunk.js": "/static/js/5411.bb75da08.chunk.js",
     "static/js/5030.0a776ee4.chunk.js": "/static/js/5030.0a776ee4.chunk.js",
     "static/js/5026.d7db7d8d.chunk.js": "/static/js/5026.d7db7d8d.chunk.js",
@@ -191,9 +191,9 @@
     "static/media/star_unselected.svg": "/static/media/star_unselected.552bc0752c6b3e81c189.svg",
     "static/media/repair_icon1.svg": "/static/media/repair_icon1.0b48a5e1323f03fe819b.svg",
     "static/media/bg-header-jobs-mobile.svg": "/static/media/bg-header-jobs-mobile.53721f40f761e981dfe6.svg",
+    "index.html": "/index.html",
     "static/media/phonegreen.svg": "/static/media/phonegreen.cd95faaae58f67123040.svg",
     "static/media/whitephone.svg": "/static/media/whitephone.638c9da02c154e38aa8c.svg",
-    "index.html": "/index.html",
     "static/media/sms-link-hover.svg": "/static/media/sms-link-hover.e8342d4267019b7257e3.svg",
     "static/media/otherProdCart1.svg": "/static/media/otherProdCart1.a83cb9a3b4efa2162688.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
@@ -246,6 +246,6 @@
   },
   "entrypoints": [
     "static/css/main.dd737978.css",
-    "static/js/main.9da31917.js"
+    "static/js/main.321eaa53.js"
   ]
 }
