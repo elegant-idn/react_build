@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3443dcd4.css",
+    "main.css": "/static/css/main.dd737978.css",
     "main.js": "/static/js/main.9da31917.js",
     "js/lazy/application.js": "/static/js/js/lazy/application.379e3f21.chunk.js",
     "js/lazy/verkaufenBeta.css": "/static/css/js/lazy/verkaufenBeta.b787abc3.chunk.css",
@@ -245,7 +245,7 @@
     "static/media/straightline.svg": "/static/media/straightline.ebc0517212d8516e6bf1.svg"
   },
   "entrypoints": [
-    "static/css/main.3443dcd4.css",
+    "static/css/main.dd737978.css",
     "static/js/main.9da31917.js"
   ]
 }
