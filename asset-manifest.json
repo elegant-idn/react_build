@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5d042673.css",
-    "main.js": "/static/js/main.32e76a38.js",
+    "main.js": "/static/js/main.7e02f24e.js",
     "js/lazy/application.js": "/static/js/js/lazy/application.d0eec480.chunk.js",
     "js/lazy/verkaufenBeta.css": "/static/css/js/lazy/verkaufenBeta.b787abc3.chunk.css",
     "js/lazy/verkaufenBeta.js": "/static/js/js/lazy/verkaufenBeta.fbf53d4f.chunk.js",
@@ -60,7 +60,7 @@
     "js/lazy/productNotFound.js": "/static/js/js/lazy/productNotFound.f5e3e3e4.chunk.js",
     "js/lazy/wishlistPage.js": "/static/js/js/lazy/wishlistPage.d94e048a.chunk.js",
     "js/lazy/applicationMobile.js": "/static/js/js/lazy/applicationMobile.c93f28d8.chunk.js",
-    "js/lazy/loginMobile.js": "/static/js/js/lazy/loginMobile.1d9d312c.chunk.js",
+    "js/lazy/loginMobile.js": "/static/js/js/lazy/loginMobile.6920f466.chunk.js",
     "js/lazy/mainMobile.css": "/static/css/js/lazy/mainMobile.da9c4e44.chunk.css",
     "js/lazy/mainMobile.js": "/static/js/js/lazy/mainMobile.ae4e0920.chunk.js",
     "js/lazy/kaufenMobile.js": "/static/js/js/lazy/kaufenMobile.4a4290c3.chunk.js",
@@ -168,7 +168,6 @@
     "static/media/logo_all_pages.svg": "/static/media/logo_all_pages.2ef2a6e6e4f98cb70e05.svg",
     "static/media/bag-green-icon.svg": "/static/media/bag-green-icon.44e5e9bbffb8e93696ef.svg",
     "static/media/bag-icon.svg": "/static/media/bag-icon.33b3f6ca94a79b028b32.svg",
-    "index.html": "/index.html",
     "static/media/emblem-6.svg": "/static/media/emblem-6.6bcdd2e7e26dd140a593.svg",
     "static/media/companyRegister-icon.svg": "/static/media/companyRegister-icon.689c9eb25f0f938a3546.svg",
     "static/media/computergreen.svg": "/static/media/computergreen.ee2eee48d9e116eea71f.svg",
@@ -195,6 +194,7 @@
     "static/media/phonegreen.svg": "/static/media/phonegreen.cd95faaae58f67123040.svg",
     "static/media/whitephone.svg": "/static/media/whitephone.638c9da02c154e38aa8c.svg",
     "static/media/sms-link-hover.svg": "/static/media/sms-link-hover.e8342d4267019b7257e3.svg",
+    "index.html": "/index.html",
     "static/media/otherProdCart1.svg": "/static/media/otherProdCart1.a83cb9a3b4efa2162688.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/rep_page_triangle_category.svg": "/static/media/rep_page_triangle_category.a61c93c0dce5701cc62d.svg",
@@ -246,6 +246,6 @@
   },
   "entrypoints": [
     "static/css/main.5d042673.css",
-    "static/js/main.32e76a38.js"
+    "static/js/main.7e02f24e.js"
   ]
 }
