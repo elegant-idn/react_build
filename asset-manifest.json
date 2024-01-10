@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5d042673.css",
-    "main.js": "/static/js/main.7e02f24e.js",
+    "main.js": "/static/js/main.258caa48.js",
     "js/lazy/application.js": "/static/js/js/lazy/application.d0eec480.chunk.js",
     "js/lazy/verkaufenBeta.css": "/static/css/js/lazy/verkaufenBeta.b787abc3.chunk.css",
     "js/lazy/verkaufenBeta.js": "/static/js/js/lazy/verkaufenBeta.fbf53d4f.chunk.js",
@@ -120,10 +120,10 @@
     "static/js/5675.efd48a40.chunk.js": "/static/js/5675.efd48a40.chunk.js",
     "static/js/1592.41ca0882.chunk.js": "/static/js/1592.41ca0882.chunk.js",
     "static/js/5835.b1b76c08.chunk.js": "/static/js/5835.b1b76c08.chunk.js",
-    "static/js/5343.6e4f918f.chunk.js": "/static/js/5343.6e4f918f.chunk.js",
+    "static/js/5343.62ba82f3.chunk.js": "/static/js/5343.62ba82f3.chunk.js",
     "static/js/9019.d3d7f364.chunk.js": "/static/js/9019.d3d7f364.chunk.js",
-    "static/js/7000.3055eb79.chunk.js": "/static/js/7000.3055eb79.chunk.js",
-    "static/js/4083.37974acd.chunk.js": "/static/js/4083.37974acd.chunk.js",
+    "static/js/7000.3555966b.chunk.js": "/static/js/7000.3555966b.chunk.js",
+    "static/js/4083.c4719e40.chunk.js": "/static/js/4083.c4719e40.chunk.js",
     "static/js/9.357e555c.chunk.js": "/static/js/9.357e555c.chunk.js",
     "static/js/9385.0f02843d.chunk.js": "/static/js/9385.0f02843d.chunk.js",
     "static/js/1923.30b55aed.chunk.js": "/static/js/1923.30b55aed.chunk.js",
@@ -131,7 +131,7 @@
     "static/js/6113.b261dbe6.chunk.js": "/static/js/6113.b261dbe6.chunk.js",
     "static/js/5659.22d8b63c.chunk.js": "/static/js/5659.22d8b63c.chunk.js",
     "static/js/5411.38383af4.chunk.js": "/static/js/5411.38383af4.chunk.js",
-    "static/js/5030.0a776ee4.chunk.js": "/static/js/5030.0a776ee4.chunk.js",
+    "static/js/5030.babc9aac.chunk.js": "/static/js/5030.babc9aac.chunk.js",
     "static/js/5026.d7db7d8d.chunk.js": "/static/js/5026.d7db7d8d.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
     "static/media/iphone.png": "/static/media/iphone.7f1a2f5bda24fc526d10.png",
@@ -246,6 +246,6 @@
   },
   "entrypoints": [
     "static/css/main.5d042673.css",
-    "static/js/main.7e02f24e.js"
+    "static/js/main.258caa48.js"
   ]
 }
